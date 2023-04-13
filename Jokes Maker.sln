@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jokes Maker", "Jokes Maker\Jokes Maker.csproj", "{EFAEE743-0949-4B26-BE11-E3FF6CA337CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAEE743-0949-4B26-BE11-E3FF6CA337CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAEE743-0949-4B26-BE11-E3FF6CA337CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAEE743-0949-4B26-BE11-E3FF6CA337CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAEE743-0949-4B26-BE11-E3FF6CA337CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DADD640-8945-41F8-94B6-74F5DB944B25}
+	EndGlobalSection
+EndGlobal
